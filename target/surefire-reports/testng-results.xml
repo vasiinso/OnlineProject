@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="98853" started-at="2016-12-08T00:40:54Z" finished-at="2016-12-08T00:42:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="98853" started-at="2016-12-08T00:40:54Z" finished-at="2016-12-08T00:42:33Z">
+      <class name="com.vmetry.testcases.LoginPageTest">
+        <test-method status="PASS" signature="loginBfrcls()[pri:0, instance:com.vmetry.testcases.LoginPageTest@6a4fa0]" name="loginBfrcls" is-config="true" duration-ms="28974" started-at="2016-12-08T06:10:54Z" finished-at="2016-12-08T06:11:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBfrcls -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vmetry.testcases.LoginPageTest@6a4fa0]" name="testlogin" duration-ms="20509" started-at="2016-12-08T06:11:26Z" data-provider="data" finished-at="2016-12-08T06:11:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_Login_001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[100411794217]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[vasanth@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vmetry.testcases.LoginPageTest@6a4fa0]" name="testlogin" duration-ms="17719" started-at="2016-12-08T06:11:46Z" data-provider="data" finished-at="2016-12-08T06:12:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_Login_002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[333442794217]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[vasiinso@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vmetry.testcases.LoginPageTest@6a4fa0]" name="testlogin" duration-ms="17105" started-at="2016-12-08T06:12:04Z" data-provider="data" finished-at="2016-12-08T06:12:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_Login_003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[100411794217]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[vasiinso@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vmetry.testcases.LoginPageTest@6a4fa0]" name="testlogin" duration-ms="10793" started-at="2016-12-08T06:12:21Z" data-provider="data" finished-at="2016-12-08T06:12:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_Login_004]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="afrcls()[pri:0, instance:com.vmetry.testcases.LoginPageTest@6a4fa0]" name="afrcls" is-config="true" duration-ms="861" started-at="2016-12-08T06:12:32Z" finished-at="2016-12-08T06:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afrcls -->
+      </class> <!-- com.vmetry.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

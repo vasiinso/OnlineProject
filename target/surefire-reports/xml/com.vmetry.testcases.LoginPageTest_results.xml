@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="63.612">
+  <properties />
+  
+  
+            <testcase name="testlogin" time="10.791" classname="com.vmetry.testcases.LoginPageTest" />
+                <testcase name="testlogin" time="17.312" classname="com.vmetry.testcases.LoginPageTest" />
+                <testcase name="testlogin" time="18.243" classname="com.vmetry.testcases.LoginPageTest" />
+                <testcase name="testlogin" time="17.266" classname="com.vmetry.testcases.LoginPageTest" />
+      
+</testsuite>

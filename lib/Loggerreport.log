@@ -1,0 +1,87 @@
+2016-11-18 06:18:11.103 INFO  LoginPageTest:33 - *************Test Started*********************
+2016-11-18 06:18:19.244 INFO  LoginPageTest:57 - Test Passed
+2016-11-18 06:18:22.832 INFO  LoginPageTest:33 - *************Test Started*********************
+2016-11-18 06:18:35.121 INFO  LoginPageTest:94 - Test passed
+2016-11-18 06:18:38.124 INFO  LoginPageTest:33 - *************Test Started*********************
+2016-11-18 06:18:50.164 INFO  LoginPageTest:94 - Test passed
+2016-11-18 06:18:53.167 INFO  LoginPageTest:33 - *************Test Started*********************
+2016-11-18 06:18:59.030 INFO  LoginPageTest:78 - Test Passed
+2016-11-18 06:19:02.033 INFO  LoginPageTest:123 - Writting in excel
+2016-11-18 06:25:38.223 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:25:45.442 INFO  LoginPageTest:60 - Test Passed
+2016-11-18 06:25:48.880 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:26:01.325 INFO  LoginPageTest:97 - Test passed
+2016-11-18 06:26:04.328 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:26:16.424 INFO  LoginPageTest:97 - Test passed
+2016-11-18 06:26:19.431 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:26:25.299 INFO  LoginPageTest:81 - Test Passed
+2016-11-18 06:26:28.302 INFO  LoginPageTest:126 - Writting in excel
+2016-11-18 06:39:08.088 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:39:16.470 INFO  LoginPageTest:61 - Test Failed
+2016-11-18 06:39:22.889 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:39:35.284 INFO  LoginPageTest:99 - Test passed
+2016-11-18 06:39:40.286 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:39:52.158 INFO  LoginPageTest:99 - Test passed
+2016-11-18 06:39:57.161 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:40:03.031 INFO  LoginPageTest:83 - Test Passed
+2016-11-18 06:40:08.034 INFO  LoginPageTest:128 - Writting in excel
+2016-11-18 06:42:44.161 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:42:50.996 INFO  LoginPageTest:52 - Test Passed
+2016-11-18 06:43:02.407 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:43:14.665 INFO  LoginPageTest:99 - Test passed
+2016-11-18 06:43:19.676 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:43:31.986 INFO  LoginPageTest:99 - Test passed
+2016-11-18 06:43:36.987 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:43:42.775 INFO  LoginPageTest:83 - Test Passed
+2016-11-18 06:43:47.779 INFO  LoginPageTest:128 - Writting in excel
+2016-11-18 06:48:08.020 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:48:14.659 INFO  LoginPageTest:52 - Test Passed
+2016-11-18 06:48:26.063 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:48:37.945 INFO  LoginPageTest:99 - Test passed
+2016-11-18 06:48:42.947 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:48:55.327 INFO  LoginPageTest:99 - Test passed
+2016-11-18 06:49:00.329 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:49:06.066 INFO  LoginPageTest:83 - Test Passed
+2016-11-18 06:49:11.071 INFO  LoginPageTest:128 - Writting in excel
+2016-11-18 06:51:50.733 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:51:58.034 INFO  LoginPageTest:52 - Test Passed
+2016-11-18 06:52:09.400 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:52:21.703 INFO  LoginPageTest:99 - Test passed
+2016-11-18 06:52:26.707 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:52:38.775 INFO  LoginPageTest:99 - Test passed
+2016-11-18 06:52:43.780 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-11-18 06:52:49.613 INFO  LoginPageTest:83 - Test Passed
+2016-11-18 06:52:54.615 INFO  LoginPageTest:128 - Writting in excel
+2016-12-07 06:44:28.699 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-07 06:44:37.494 INFO  LoginPageTest:52 - Test Passed
+2016-12-07 06:44:49.201 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-07 06:45:02.164 INFO  LoginPageTest:99 - Test passed
+2016-12-07 06:45:07.165 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-07 06:45:18.680 INFO  LoginPageTest:99 - Test passed
+2016-12-07 06:45:23.682 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-07 06:45:29.857 INFO  LoginPageTest:83 - Test Passed
+2016-12-07 06:45:34.861 INFO  LoginPageTest:128 - Writting in excel
+2016-12-07 06:57:13.584 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-07 06:57:22.333 INFO  LoginPageTest:52 - Test Passed
+2016-12-07 06:57:34.373 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-07 06:57:47.030 INFO  LoginPageTest:99 - Test passed
+2016-12-07 06:57:52.033 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-07 06:58:04.773 INFO  LoginPageTest:99 - Test passed
+2016-12-07 06:58:09.775 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-07 06:58:15.831 INFO  LoginPageTest:83 - Test Passed
+2016-12-07 06:58:20.833 INFO  LoginPageTest:128 - Writting in excel
+2016-12-08 06:06:54.864 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-08 06:07:03.357 INFO  LoginPageTest:52 - Test Passed
+2016-12-08 06:07:15.090 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-08 06:07:27.429 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-08 06:07:27.617 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-08 06:07:27.667 INFO  LoginPageTest:128 - Writting in excel
+2016-12-08 06:11:26.478 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-08 06:11:34.942 INFO  LoginPageTest:52 - Test Passed
+2016-12-08 06:11:46.995 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-08 06:11:59.712 INFO  LoginPageTest:99 - Test passed
+2016-12-08 06:12:04.714 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-08 06:12:16.817 INFO  LoginPageTest:99 - Test passed
+2016-12-08 06:12:21.820 INFO  LoginPageTest:36 - *************Test Started*********************
+2016-12-08 06:12:27.610 INFO  LoginPageTest:83 - Test Passed
+2016-12-08 06:12:32.614 INFO  LoginPageTest:128 - Writting in excel
